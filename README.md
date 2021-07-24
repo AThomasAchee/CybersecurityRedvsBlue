@@ -6,4 +6,6 @@ During this project I:
 * Analyzed the logs of this attack from the point of view of a SOC analyst and determined which files and directories were accessed by this attacker. 
 * Consolidated findings from both sides into a report and presented mitigation strategies to harden the server from future attacks. 
 
-add links to red and blue team screenshots and the powerpoint pdf
+* [Blue Team Screenshots] (screenshots/BlueTeam)
+* [Red Team Screenshots] (screenshots/RedTeam)
+* [Project Presentation] (Allynn Achee Red vs Blue Presentation.pdf)
